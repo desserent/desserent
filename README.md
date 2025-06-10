@@ -52,9 +52,7 @@
 ---
 
 ### 🎵 **Сейчас слушаю** (если хочешь добавить Spotify)
-<a href="https://soundcloud.com/enter/TELEPHONES">
-  <img src="https://img.shields.io/badge/🎧_Слушать_мой_трек-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="My Track">
-</a>
+[![SoundCloud Track](https://custom-icon-badges.demolab.com/badge/TELEPHONES-FF3300.svg?logo=soundcloud)](https://soundcloud.com/hyilo-416234785/TELEPHONES)
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqM2R0Z3B1a2x6dWJmY3RlY2J6eGJ0N2RjZWZ4bGJ6eGZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100px">
