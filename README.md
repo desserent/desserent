@@ -1,65 +1,60 @@
-<h1 align="center"> 
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqM2R0Z3B1a2x6dWJmY3RlY2J6eGJ0N2RjZWZ4bGJ6eGZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="50px"> Привет, я Аюб Жагупов! 
+<h1 align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0NGg2d2VqY2VlZzN1ZzR5ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6Z3guanBn/giphy-downsized-large.gif" width="80px"> Привет, я Аюб Жагупов (desserent)!
 </h1>
 
-<h3 align="center">🚀 15-летний Full-Stack разработчик | Люблю создавать крутые вещи</h3>
+<h3 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0066&center=true&vCenter=true&width=500&lines=15+летний+Full-Stack+разработчик;HTML+%7C+CSS+%7C+JavaScript+%7C+Sass;React+%7C+Node.js+%7C+Express;Люблю+код+и+кофе+%F0%9F%98%8A" alt="Typing SVG" />
+  </a>
+</h3>
 
 <p align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Sass;React+%7C+Node.js+%7C+Express;Full-Stack+%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB+%F0%9F%92%AA" alt="Typing SVG" />
-  </a>
+  <img src="https://komarev.com/ghpvc/?username=desserent&label=Profile%20views&color=00FF00&style=flat" alt="desserent" />
 </p>
 
 ---
 
-### 👨‍💻 **Обо мне**  
-- 🌱 Учусь и развиваюсь в веб-разработке  
-- 💡 Люблю решать сложные задачи  
-- 🎯 Цель: стать Senior Full-Stack Developer  
-- ⚡ Факт: начал программировать в 13 лет  
+### 🚀 **Мой стек технологий**
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,express,git,github,vscode" alt="Tech Stack" />
+</div>
 
 ---
 
-### 🛠 **Мой стек технологий**  
-<div align="center">  
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />  
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />  
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />  
-  <img src="https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white" alt="Sass" />  
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />  
-  <img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />  
-</div>  
+### 📊 **GitHub-статистика**
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=desserent&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=desserent&theme=radical" alt="GitHub Streak" width="45%" />
+</div>
 
 ---
 
-### 🔥 **Мои проекты**  
-| Название | Описание | Технологии | Ссылка |  
-|----------|----------|------------|--------|  
-| **Проект 1** | Крутой лендинг | HTML, CSS, JS | [GitHub]() |  
-| **Проект 2** | Фулл-стек приложение | React, Node.js | [Демо]() |  
+### 🔥 **Мои топ-проекты**
+| Название       | Описание                          | Технологии          | Ссылка       |
+|----------------|-----------------------------------|---------------------|--------------|
+| **Project X**  | Крутой лендинг с анимациями      | HTML, CSS, JS       | [Демо]()     |
+| **Web App**    | Фулл-стек приложение для задач    | React, Node.js      | [GitHub]()   |
 
 ---
 
-### 📈 **Гитхаб статистика**  
-<div align="center">  
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical" alt="Аюб Жагупов GitHub Stats" />  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" alt="Top Langs" />  
-</div>  
+### 📫 **Контакты**
+<div align="center">
+  <a href="https://t.me/desserent">
+    <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="mailto:ayub@example.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+  </a>
+  <a href="https://github.com/desserent">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</div>
 
 ---
 
-### 📫 **Как со мной связаться?**  
-<div align="center">  
-  <a href="https://t.me/yournick">  
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />  
-  </a>  
-  <a href="mailto:youremail@example.com">  
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />  
-  </a>  
-</div>  
+### 🎵 **Сейчас слушаю** (если хочешь добавить Spotify)
+[![Spotify](https://spotify-readme-omega.vercel.app/api/spotify)](https://open.spotify.com/user/your_id)
 
----
-
-<p align="center">  
-  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="yourusername" />  
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqM2R0Z3B1a2x6dWJmY3RlY2J6eGJ0N2RjZWZ4bGJ6eGZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100px">
 </p>
