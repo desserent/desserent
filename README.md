@@ -1,15 +1,14 @@
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExYTJ0NGg2d2VqY2VlZzN1ZzR5ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6ZzZ6Z3guanBn/giphy-downsized-large.gif" width="80px"> Привет, я Аюб Жагупов (desserent)!
 </h1>
 
-<h3 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0066&center=true&vCenter=true&width=500&lines=15+летний+Full-Stack+разработчик;HTML+%7C+CSS+%7C+JavaScript+%7C+Sass;React+%7C+Node.js+%7C+Express;Люблю+код+и+кофе+%F0%9F%98%8A" alt="Typing SVG" />
-  </a>
-</h3>
+<h3 align="center">🚀 15-летний Full-Stack разработчик | Люблю создавать крутые вещи</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=desserent&label=Profile%20views&color=00FF00&style=flat" alt="desserent" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=36BCF7FF&center=true&vCenter=true&width=500&lines=HTML+%7C+CSS+%7C+JavaScript+%7C+Sass;React+%7C+Node.js+%7C+Express;Full-Stack+%D0%BF%D0%BE%D1%82%D0%B5%D0%BD%D1%86%D0%B8%D0%B0%D0%BB+%F0%9F%92%AA" alt="Typing SVG" />
+  </a>
 </p>
 
 ---
@@ -53,7 +52,9 @@
 ---
 
 ### 🎵 **Сейчас слушаю** (если хочешь добавить Spotify)
-[![Spotify](https://spotify-readme-omega.vercel.app/api/spotify)](https://open.spotify.com/user/your_id)
+<a href="https://soundcloud.com/enter/TELEPHONES">
+  <img src="https://img.shields.io/badge/🎧_Слушать_мой_трек-FF3300?style=for-the-badge&logo=soundcloud&logoColor=white" alt="My Track">
+</a>
 
 <p align="center">
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqM2R0Z3B1a2x6dWJmY3RlY2J6eGJ0N2RjZWZ4bGJ6eGZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100px">
