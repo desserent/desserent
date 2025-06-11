@@ -37,10 +37,10 @@
 
 ### 📫 **Контакты**
 <div align="center">
-  <a href="https://t.me/desserent">
+  <a href="https://t.me/Nobilesqque_facti_sunt">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
-  <a href="mailto:ayub@example.com">
+  <a href="mailto:ayubzhagupov@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   <a href="https://github.com/desserent">
