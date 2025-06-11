@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://images.steamusercontent.com/ugc/15561466681204812362/FAEB80E1109028D8E40CD713BD92744CD11D6B78/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000px"></br> Привет, я Аюб Жагупов (desserent)!
+  <img src="https://images.steamusercontent.com/ugc/15561466681204812362/FAEB80E1109028D8E40CD713BD92744CD11D6B78/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000px"></br> Привет, я Аюб (desserent)!
 </h1>
 
 <h3 align="center">🚀 15-летний Full-Stack разработчик | Люблю создавать крутые вещи</h3>
