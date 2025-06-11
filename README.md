@@ -52,15 +52,15 @@
 
 ### 🎧 **Сейчас в моих наушниках**
 
-[![TELEPHONES](https://img.shields.io/badge/🎶_TELEPHONES-AA00FF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yvngxchris/telephones)
-[![Suffocation](https://img.shields.io/badge/🎵_Suffocation-00AAFF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/wejustdidthis/suffocation)
-[![Dark Red](https://img.shields.io/badge/🔉_Dark_Red-FF0000.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/stevelacy/dark-red)
+[![TELEPHONES](https://img.shields.io/badge/TELEPHONES-AA00FF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yvngxchris/telephones)
+[![Suffocation](https://img.shields.io/badge/Suffocation-00AAFF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/wejustdidthis/suffocation)
+[![Dark Red](https://img.shields.io/badge/Dark_Red-FF0000.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/stevelacy/dark-red)
 
-[![Sex Drugs Etc](https://img.shields.io/badge/🎧_Sex_Drugs_Etc-FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/beabadoobee/sex-drugs-etc)
-[![Timeless](https://img.shields.io/badge/🎼_Timeless-00CC99.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/ilovemakonnen/timeless)
-[![YOUNG](https://img.shields.io/badge/🔊_YOUNG-FFDD00.svg?style=for-the-badge&logo=soundcloud&logoColor=black)](https://soundcloud.com/youngvacations/young)
+[![Sex Drugs Etc](https://img.shields.io/badge/Sex_Drugs_Etc-FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/beabadoobee/sex-drugs-etc)
+[![Timeless](https://img.shields.io/badge/Timeless-00CC99.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/ilovemakonnen/timeless)
+[![YOUNG](https://img.shields.io/badge/YOUNG-FFDD00.svg?style=for-the-badge&logo=soundcloud&logoColor=black)](https://soundcloud.com/youngvacations/young)
 
-[![Karma Police](https://img.shields.io/badge/🎤_Karma_Police-7700FF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/radiohead/karma-police)
-[![FEEL IT](https://img.shields.io/badge/🎚_FEEL_IT-FF0066.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/tropkillaz/feel-it)
-[![all i need](https://img.shields.io/badge/🎹_all_i_need-11AA88.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/awfultune/all-i-need)
+[![Karma Police](https://img.shields.io/badge/Karma_Police-7700FF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/radiohead/karma-police)
+[![FEEL IT](https://img.shields.io/badge/FEEL_IT-FF0066.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/tropkillaz/feel-it)
+[![all i need](https://img.shields.io/badge/all_i_need-11AA88.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/awfultune/all-i-need)
 
