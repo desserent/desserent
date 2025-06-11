@@ -64,3 +64,41 @@
 [![FEEL IT](https://img.shields.io/badge/FEEL_IT-FF0066.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/tropkillaz/feel-it)
 [![all i need](https://img.shields.io/badge/all_i_need-11AA88.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/awfultune/all-i-need)
 
+---
+
+## 🌌 **Обо мне**
+<details>
+<summary><b>✨ Нажмите, чтобы раскрыть мой цифровой портрет</b></summary>
+
+```javascript
+// Мой цифровой ДНК
+const ayub = {
+  meta: {
+    age: 15,
+    location: "🚀 Россия",
+    status: "Создаю будущее"
+  },
+  
+  stack: {
+    frontend: ["React", "TypeScript", "Sass", "Three.js"],
+    backend: ["Node.js", "Express", "MongoDB"],
+    mobile: ["React Native"],
+    design: ["Figma", "Adobe XD"]
+  },
+  
+  traits: [
+    "Перфекционист в коде", 
+    "Фанат чистого кода",
+    "Люблю сложные задачи"
+  ],
+  
+  hobbies: {
+    music: ["Indie Rock", "Lo-Fi", "Synthwave"],
+    games: ["RDR 2", "FAR CRY 5", "Etc."],
+    other: ["AI", "Спорт"]
+  },
+  
+  getMotivation() {
+    return "Код — это поэзия цифровой эпохи";
+  }
+};
