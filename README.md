@@ -1,8 +1,8 @@
 <h1 align="center">
-  <img src="https://images.steamusercontent.com/ugc/15561466681204812362/FAEB80E1109028D8E40CD713BD92744CD11D6B78/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000px"></br> Привет, я desserent!
+  <img src="https://images.steamusercontent.com/ugc/15561466681204812362/FAEB80E1109028D8E40CD713BD92744CD11D6B78/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="1000px"></br> Hello, I desserent!
 </h1>
 
-<h3 align="center">🚀 15-летний Full-Stack разработчик | Люблю создавать крутые вещи</h3>
+<h3 align="center">🚀 15 year old Full-Stack Developer | I love creating cool stuff</h3>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
@@ -12,14 +12,14 @@
 
 ---
 
-### 🚀 **Мой стек технологий**
+### 🚀 **My technology stack**
 <div align="center">
   <img src="https://skillicons.dev/icons?i=html,css,js,sass,react,nodejs,express,git,github,vscode" alt="Tech Stack" />
 </div>
 
 ---
 
-### 📊 **GitHub-статистика**
+### 📊 **GitHub-statistics**
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=desserent&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=desserent&theme=radical" alt="GitHub Streak" width="45%" />
@@ -27,15 +27,15 @@
 
 ---
 
-### 🔥 **Мои топ-проекты**
-| Название       | Описание                          | Технологии          | Ссылка       |
+### 🔥 **My top projects**
+|Names       | Description                         | Technologies          | Link       |
 |----------------|-----------------------------------|---------------------|--------------|
-| **Project X**  | Крутой лендинг с анимациями      | HTML, CSS, JS       | [Демо]()     |
-| **Web App**    | Фулл-стек приложение для задач    | React, Node.js      | [GitHub]()   |
+| **Project X**  | Cool landing page with animations      | HTML, CSS, JS       | [Demo]()     |
+| **Web App**    | Full stack task app    | React, Node.js      | [GitHub]()   |
 
 ---
 
-### 📫 **Контакты**
+### 📫 **Contacts**
 <div align="center">
   <a href="https://t.me/Nobilesque_facti_sunt">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
@@ -50,7 +50,7 @@
 
 ---
 
-### 🎧 **Сейчас в моих наушниках**
+### 🎧 **Now in my headphones**
 
 [![TELEPHONES](https://img.shields.io/badge/TELEPHONES-AA00FF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/yvngxchris/telephones)
 [![Suffocation](https://img.shields.io/badge/Suffocation-00AAFF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/wejustdidthis/suffocation)
@@ -66,17 +66,17 @@
 
 ---
 
-## 🌌 **Обо мне**
+## 🌌 **About me**
 <details>
-<summary><b>✨ Нажмите, чтобы раскрыть мой цифровой портрет</b></summary>
+<summary><b>✨ Click to expand my digital portrait</b></summary>
 
 ```javascript
-// Мой цифровой ДНК
+//My digital DNA
 const desserent = {
   meta: {
     age: 15,
-    location: "🚀 Россия",
-    status: "Создаю будущее"
+    location: "🚀 Russia",
+    status: "I create the future"
   },
   
   stack: {
@@ -87,18 +87,18 @@ const desserent = {
   },
   
   traits: [
-    "Перфекционист в коде", 
-    "Фанат чистого кода",
-    "Люблю сложные задачи"
+    "Perfectionist in code", 
+    "Clean code fan", 
+    "Love complex tasks"
   ],
   
   hobbies: {
     music: ["Indie Rock", "Lo-Fi", "Synthwave"],
     games: ["RDR 2", "FAR CRY 5", "Etc."],
-    other: ["AI", "Спорт"]
+    other: ["AI", "Sport"]
   },
   
   getMotivation() {
-    return "Код — это поэзия цифровой эпохи";
+    return "Code is the poetry of the digital age";
   }
 };
