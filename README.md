@@ -37,7 +37,7 @@
 
 ### 📫 **Контакты**
 <div align="center">
-  <a href="https://t.me/Nobilesqque_facti_sunt">
+  <a href="https://t.me/Nobilesque_facti_sunt">
     <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
   </a>
   <a href="mailto:ayubzhagupov@gmail.com">
