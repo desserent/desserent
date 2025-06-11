@@ -51,9 +51,17 @@
 
 ---
 
-### 🎵 **Сейчас слушаю** (если хочешь добавить Spotify)
-[![SoundCloud Track](https://custom-icon-badges.demolab.com/badge/TELEPHONES-FF3300.svg?logo=soundcloud)](https://soundcloud.com/hyilo-416234785/TELEPHONES)
+### 🎧 **Сейчас в моих наушниках**
 
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWZqM2R0Z3B1a2x6dWJmY3RlY2J6eGJ0N2RjZWZ4bGJ6eGZxZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/xT5LMHxhOfscxPfIfm/giphy.gif" width="100px">
-</p>
+[![TELEPHONES](https://img.shields.io/badge/🎶_TELEPHONES-AA00FF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hyilo-416234785/TELEPHONES)
+[![Suffocation](https://img.shields.io/badge/🎵_Suffocation-00AAFF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hyilo-416234785/Suffocation)
+[![Dark Red](https://img.shields.io/badge/🔉_Dark_Red-FF0000.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hyilo-416234785/Dark_Red)
+
+[![Sex Drugs Etc](https://img.shields.io/badge/🎧_Sex_Drugs_Etc-FF5500.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hyilo-416234785/Sex_Drugs_Etc)
+[![Timeless](https://img.shields.io/badge/🎼_Timeless-00CC99.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hyilo-416234785/Timeless)
+[![YOUNG](https://img.shields.io/badge/🔊_YOUNG-FFDD00.svg?style=for-the-badge&logo=soundcloud&logoColor=black)](https://soundcloud.com/hyilo-416234785/YOUNG)
+
+[![Karma Police](https://img.shields.io/badge/🎤_Karma_Police-7700FF.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hyilo-416234785/Karma_Police)
+[![FEEL IT](https://img.shields.io/badge/🔌_FEEL_IT-FF0066.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hyilo-416234785/FEEL_IT_X_FEEL_IT)
+[![all i need](https://img.shields.io/badge/🎹_all_i_need-11AA88.svg?style=for-the-badge&logo=soundcloud&logoColor=white)](https://soundcloud.com/hyilo-416234785/all_i_need)
+
