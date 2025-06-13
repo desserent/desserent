@@ -35,6 +35,10 @@
 
 ---
 
+[![Actividad reciente](https://github-readme-activity-graph.vercel.app/graph?username=desserent&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph?tab=readme-ov-file)
+
+---
+
 ### 📫 **Contacts**
 <div align="center">
   <a href="https://t.me/Nobilesque_facti_sunt">
